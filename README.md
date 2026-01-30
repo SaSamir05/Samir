@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I am a **Graduating** in  computer science **Daffodil International University**. I have experience in Linux,Debian,Termux,Cloud computing.*
+ 🔭 I am a **Graduating** in  computer science **Daffodil International University**. I have experience in Linux,Debian.*
 
  </div>
  
